@@ -38,3 +38,5 @@
   - 제출 x
 
 ## 💚 우수 과제
+- Week1_예습과제_박연정[https://github.com/Ewha-Euron/10th-ML/pull/9/changes]
+- Week1_예습과제_안서영 [https://github.com/Ewha-Euron/10th-ML/pull/1/changes]
