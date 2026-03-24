@@ -1,5 +1,5 @@
 # 10th-ML
-# 🐣EURON 10기 Research 세션🐣
+# 🐣EURON 10기 ML 세션🐣
 
 ## 💚 팀 구성 💚
 
@@ -16,7 +16,7 @@
 |-|03/03|**OT**|||
 |1주차|03/10|파머완 1장|1팀|[📚](https://github.com/user-attachments/files/25887642/Euron.1._1.pdf)|
 |2주차|03/17|파머완 2장, 3장(2.6, 3.6장 제외)|2팀|[📚](https://github.com/leesungyeon-dot/Week-1/raw/main/Euron.2._2.pdf)|
-|3주차|03/24|파머완 4장 - Part 1(4.1장 ~  4.4장)|3팀|[📚]()|
+|3주차|03/24|파머완 4장 - Part 1(4.1장 ~  4.4장)|3팀|[📚](https://github.com/leesungyeon-dot/Week-1/raw/main/Week3_ML.pdf)|
 |4주차|03/31|파머완 4장 - Part 2(4.5장 ~ 4.8장, 4.10장 ~ 4.11장)|4팀|[📚]()|
 |5주차|04/07|분류 실습(파머완 4.9, 4.10장 + Kaggle 필사)|1팀|[📚]()|
 |6주차|04/14|파머완 5장(5.9, 5.10장 제외)|2팀|[📚]()|
