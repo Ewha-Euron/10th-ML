@@ -46,5 +46,5 @@
   - **3월 16일 23:59**까지 제출합니다.
 
 ## 💚우수과제💚
-- [🌟Week2_예습과제_권혜수](https://github.com/Ewha-Euron/9th-ML/pull/19/files)
-- [🌟Week2_예습과제_노현선](https://github.com/Ewha-Euron/9th-ML/pull/31/files)
+- [🌟Week2_예습과제_한수연](https://github.com/syeonhhh/10th-ML/tree/week_2)
+- [🌟Week2_예습과제_권지원](https://github.com/rnjswldnjs/10th_ML/tree/week_2)
