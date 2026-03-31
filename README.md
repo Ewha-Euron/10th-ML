@@ -52,3 +52,5 @@
   - **3월 23일 23:59**까지 제출합니다.
     
 ## 💚우수과제💚
+- [🌟Week3_예습과제_박채윤](https://github.com/profobbb/EuronML/tree/week_3)
+- [🌟Week3_예습과제_천하진](https://github.com/ChunHajin/10th-ML/tree/week_3)
