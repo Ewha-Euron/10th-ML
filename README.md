@@ -1,6 +1,7 @@
 # 10th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]
+- 📚 [발표 자료]-[Week3_ML_발표.pdf](https://github.com/user-attachments/files/26519133/Week3_ML_.pdf)
+
 - 발표자: 3팀(한수연, 박연정, 박지원)
 - 파머완 4장. 분류 - Part 1(4.1 ~ 4.4장)
   - 분류 개요
