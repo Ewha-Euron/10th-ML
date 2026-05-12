@@ -47,3 +47,6 @@
   - 라벨: ```복습과제```
   - **4/13 23:59**까지 제출합니다.
 ## 💚우수과제💚
+[🌟Week6_예습과제_박연정](https://github.com/joycheese423/10th-ML./tree/week_6)
+    
+[🌟Week6_예습과제_김세연](https://github.com/Seyeongim67/10th-ML./tree/week_6)
