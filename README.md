@@ -40,3 +40,11 @@
   - **05/04 23:59**까지 제출합니다.
  
 ## 💚우수과제💚
+[🌟Week9_예습과제_박채윤](https://github.com/profobbb/EuronML/tree/week_9)
+    
+[🌟Week9_예습과제_안서영](https://github.com/sy-ahn/EURON-10th-ML/tree/week_9)
+
+
+
+
+
