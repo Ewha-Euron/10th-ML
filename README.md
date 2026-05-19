@@ -49,3 +49,6 @@
   - 라벨: ```복습과제```
   - **05/11 23:59**까지 제출합니다.
 ## 💚우수과제💚
+[🌟Week10_예습과제_안서영](https://github.com/sy-ahn/EURON-10th-ML/tree/week_10)
+    
+[🌟Week10_예습과제_한수연](https://github.com/syeonhhh/10th-ML/tree/week_10)
